@@ -1,0 +1,103 @@
+{
+  "a": [
+    {
+      "word": "Asubuhi",
+      "meaning": "Morning"
+    },
+    {
+      "word": "Asubuhi Njema",
+      "meaning": "Good Morning"
+    },
+    {
+      "word": "Asante",
+      "meaning": "Thanks"
+    },
+    {
+      "word": "Asante Sana",
+      "meaning": "Thank you very much"
+    },
+    {
+      "word": "Ana",
+      "meaning": "He has"
+    },
+    {
+      "word": "Alama",
+      "meaning": "Sign"
+    }
+  ],
+  "b": [
+    {
+      "word": "Barua",
+      "meaning": "Letters"
+    },
+    {
+      "word": "Blanketi",
+      "meaning": "Blanket"
+    },
+    {
+      "word": "Badiliko",
+      "meaning": "Change"
+    },
+    {
+      "word": "Barua pepe",
+      "meaning": "Email"
+    },
+    {
+      "word": "Bibi",
+      "meaning": "Grandmother",
+      "tags": ["family"]
+    },
+    {
+      "word": "Babu",
+      "meaning": "Grandfather",
+      "tags": ["family"]
+    },
+    {
+      "word": "Baadaye",
+      "meaning": "Later"
+    },
+    {
+      "word": "Baridi",
+      "meaning": "Cold",
+      "tags": ["weather"]
+    },
+    {
+      "word": "Begi",
+      "meaning": "Bag"
+    },
+    {
+      "word": "Bafu",
+      "meaning": "Bathroom",
+      "tags": ["house", "room"]
+    },
+    {
+      "word": "Bia",
+      "meaning": "Beer",
+      "tags": ["drinks", "alcohol"]
+    }
+  ],
+  "c": [],
+  "d": [],
+  "e": [],
+  "f": [],
+  "g": [],
+  "h": [],
+  "i": [],
+  "j": [],
+  "k": [],
+  "l": [],
+  "m": [],
+  "n": [],
+  "o": [],
+  "p": [],
+  "q": [],
+  "r": [],
+  "s": [],
+  "t": [],
+  "u": [],
+  "v": [],
+  "w": [],
+  "x": [],
+  "y": [],
+  "z": []
+}
