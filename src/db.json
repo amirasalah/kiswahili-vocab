@@ -1,118 +1,125 @@
 {
   "a": [
     {
-      "word": "Asubuhi",
-      "meaning": "Morning",
+      "word": "asubuhi",
+      "meaning": "morning",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Asubuhi Njema",
-      "meaning": "Good Morning",
+      "word": "asubuhi njema",
+      "meaning": "good morning",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Asante",
-      "meaning": "Thanks",
+      "word": "asante",
+      "meaning": "thanks",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Asante Sana",
-      "meaning": "Thank you very much",
+      "word": "asante sana",
+      "meaning": "thank you very much",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Ana",
-      "meaning": "He has"
+      "word": "ana",
+      "meaning": "he has"
     },
     {
-      "word": "Alama",
-      "meaning": "Sign",
+      "word": "alama",
+      "meaning": "sign",
       "tags": [
-        "Noun"
+        "noun"
       ]
     }
   ],
   "b": [
     {
-      "word": "Barua",
-      "meaning": "Letters",
+      "word": "barua",
+      "meaning": "letters",
       "type": "plural",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Blanketi",
-      "meaning": "Blanket",
+      "word": "blanketi",
+      "meaning": "blanket",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Badiliko",
-      "meaning": "Change"
+      "word": "badiliko",
+      "meaning": "change"
     },
     {
-      "word": "Barua pepe",
-      "meaning": "Email",
+      "word": "barua pepe",
+      "meaning": "email",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Bibi",
-      "meaning": "Grandmother",
-      "tags": [
-        "family"
-      ]
-    },
-    {
-      "word": "Babu",
-      "meaning": "Grandfather",
+      "word": "baba",
+      "meaning": "father",
       "tags": [
         "family"
       ]
     },
     {
-      "word": "Baadaye",
-      "meaning": "Later",
+      "word": "bibi",
+      "meaning": "grandmother",
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "word": "babu",
+      "meaning": "grandfather",
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "word": "baadaye",
+      "meaning": "later",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Baridi",
-      "meaning": "Cold",
+      "word": "baridi",
+      "meaning": "cold",
       "tags": [
         "weather"
       ]
     },
     {
-      "word": "Begi",
-      "meaning": "Bag",
+      "word": "begi",
+      "meaning": "bag",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Bafu",
-      "meaning": "Bathroom",
+      "word": "bafu",
+      "meaning": "bathroom",
       "tags": [
         "house",
         "room"
       ]
     },
     {
-      "word": "Bia",
-      "meaning": "Beer",
+      "word": "bia",
+      "meaning": "beer",
       "tags": [
         "drink",
         "alcohol"
@@ -121,50 +128,50 @@
   ],
   "c": [
     {
-      "word": "Chumba",
+      "word": "chumba",
       "meaning": "room",
       "tags": [
         "home"
       ]
     },
     {
-      "word": "Chupa",
-      "meaning": "Bottle",
+      "word": "chupa",
+      "meaning": "bottle",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Chungwa",
-      "meaning": "Oranges",
+      "word": "chungwa",
+      "meaning": "oranges",
       "tags": [
         "fruits",
         "food"
       ]
     },
     {
-      "word": "Chakula",
-      "meaning": "Food",
+      "word": "chakula",
+      "meaning": "food",
       "tags": [
         "food"
       ]
     },
     {
-      "word": "Chakula cha asubuhi",
-      "meaning": "Breakfast",
+      "word": "chakula cha asubuhi",
+      "meaning": "breakfast",
       "tags": [
         "food"
       ]
     },
     {
-      "word": "Chakula cha jioni",
-      "meaning": "Dinner",
+      "word": "chakula cha jioni",
+      "meaning": "dinner",
       "tags": [
         "food"
       ]
     },
     {
-      "word": "Chai",
+      "word": "chai",
       "meaning": "tea",
       "tags": [
         "food",
@@ -172,7 +179,7 @@
       ]
     },
     {
-      "word": "Choo",
+      "word": "choo",
       "meaning": "toilet",
       "tags": [
         "home",
@@ -180,54 +187,54 @@
       ]
     },
     {
-      "word": "Chetu",
-      "meaning": "Our"
+      "word": "chetu",
+      "meaning": "our"
     },
     {
-      "word": "Chake",
+      "word": "chake",
       "meaning": [
-        "His",
-        "Hers"
+        "his",
+        "hers"
       ]
     },
     {
-      "word": "Changu",
-      "meaning": "My"
+      "word": "changu",
+      "meaning": "my"
     },
     {
-      "word": "Chandarua",
-      "meaning": "Mosquito net",
+      "word": "chandarua",
+      "meaning": "mosquito net",
       "tags": [
         "home"
       ]
     },
     {
-      "word": "Chao",
-      "meaning": "Their"
+      "word": "chao",
+      "meaning": "their"
     },
     {
-      "word": "Chuo",
+      "word": "chuo",
       "meaning": [
-        "College",
-        " University"
+        "college",
+        " university"
       ]
     },
     {
-      "word": "Chumvi",
-      "meaning": "Salt",
+      "word": "chumvi",
+      "meaning": "salt",
       "tags": [
         "food"
       ]
     },
     {
-      "word": "Chafu",
+      "word": "chafu",
       "meaning": "dirty",
       "tags": [
         "adjective"
       ]
     },
     {
-      "word": "Chembamba",
+      "word": "chembamba",
       "meaning": [
         "narrow",
         "slender"
@@ -239,69 +246,69 @@
   ],
   "d": [
     {
-      "word": "Dada",
-      "meaning": "Sister",
+      "word": "dada",
+      "meaning": "sister",
       "tags": [
         "family"
       ]
     },
     {
-      "word": "Daktari",
-      "meaning": "Doctor",
+      "word": "daktari",
+      "meaning": "doctor",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Dari",
-      "meaning": "Attic",
+      "word": "dari",
+      "meaning": "attic",
       "tags": [
-        "Noun",
+        "noun",
         "home"
       ]
     },
     {
-      "word": "Dirisha",
+      "word": "dirisha",
       "meaning": "window",
       "tags": [
-        "Noun",
+        "noun",
         "home"
       ]
     },
     {
-      "word": "Duka",
-      "meaning": "Shop"
+      "word": "duka",
+      "meaning": "shop"
     },
     {
-      "word": "Daraja",
-      "meaning": "Bridge"
+      "word": "daraja",
+      "meaning": "bridge"
     }
   ],
   "e": [],
   "f": [
     {
-      "word": "Familia",
-      "meaning": "Family"
+      "word": "familia",
+      "meaning": "family"
     }
   ],
   "g": [
     {
-      "word": "Gazeti",
-      "meaning": "Newspaper",
+      "word": "gazeti",
+      "meaning": "newspaper",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Godoro",
-      "meaning": "Mattress",
+      "word": "godoro",
+      "meaning": "mattress",
       "tags": [
-        "Noun"
+        "noun"
       ]
     },
     {
-      "word": "Ghali",
-      "meaning": "Expensive",
+      "word": "ghali",
+      "meaning": "expensive",
       "tags": [
         "adjective"
       ]
@@ -309,37 +316,37 @@
   ],
   "h": [
     {
-      "word": "Hamjambo",
+      "word": "hamjambo",
       "type": "plural",
-      "meaning": "How are you",
+      "meaning": "how are you",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Hujambo",
+      "word": "hujambo",
       "type": "singular",
-      "meaning": "How are you",
+      "meaning": "how are you",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Hawajambo",
-      "meaning": "How are they",
+      "word": "hawajambo",
+      "meaning": "how are they",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Hatujambo",
-      "meaning": "We are doing ",
+      "word": "hatujambo",
+      "meaning": "we are doing ",
       "tags": [
         "greeting"
       ]
     },
     {
-      "word": "Hajambo",
+      "word": "hajambo",
       "meaning": [
         "she is fine",
         "he is fine",
@@ -348,961 +355,997 @@
       ]
     },
     {
-      "word": "Heresi",
-      "meaning": "Earnings"
+      "word": "heresi",
+      "meaning": "earnings"
     },
     {
-      "word": "Hawana",
-      "meaning": "They don’t have"
+      "word": "hawana",
+      "meaning": "they don’t have"
     },
     {
-      "word": "Hatuna",
-      "meaning": "We don’t have"
+      "word": "hatuna",
+      "meaning": "we don’t have"
     },
     {
-      "word": "Hatuna",
-      "meaning": "We don’t have"
+      "word": "hatuna",
+      "meaning": "we don’t have"
     },
     {
-      "word": "Hana",
+      "word": "hana",
       "meaning": "she doesn’t have"
     },
     {
-      "word": "Huna",
+      "word": "huna",
       "meaning": "you don’t have"
     },
     {
-      "word": "Hii ni",
-      "meaning": "This is"
+      "word": "hii ni",
+      "meaning": "this is"
     },
     {
-      "word": "Hatari",
-      "meaning": "Danger"
+      "word": "hatari",
+      "meaning": "danger"
     },
     {
-      "word": "Hodi Hodi",
+      "word": "hodi hodi",
       "meaning": [
-        "Knock knock",
-        "May i come in"
+        "knock knock",
+        "may i come in"
       ]
     },
     {
-      "word": "Habari Nzuri",
-      "meaning": "Good news"
+      "word": "habari nzuri",
+      "meaning": "good news"
     },
     {
-      "word": "Habari za",
-      "meaning": "How is"
+      "word": "habari za",
+      "meaning": "how is"
     },
     {
-      "word": "Habari ya jioni",
-      "meaning": "Good evening"
+      "word": "habari ya jioni",
+      "meaning": "good evening"
     },
     {
-      "word": "Habari",
+      "word": "habari",
       "meaning": [
-        "Hi",
-        "Hello"
+        "hi",
+        "hello"
       ]
     }
   ],
   "i": [
     {
-      "word": "Iko wabi",
+      "word": "iko wabi",
       "meaning": [
-        "Where is"
+        "where is"
       ]
     },
     {
-      "word": "Inajengwa",
+      "word": "inajengwa",
       "meaning": [
-        "It’s being built"
+        "it’s being built"
       ]
     },
     {
-      "word": "Ina",
+      "word": "ina",
       "meaning": [
-        "Has"
+        "has"
       ]
     }
   ],
   "j": [
     {
-      "word": "Jioni",
-      "meaning": "Evening"
+      "word": "jioni",
+      "meaning": "evening"
     },
     {
-      "word": "Jioni njema",
-      "meaning": "Good evening"
+      "word": "jioni njema",
+      "meaning": "good evening"
     },
     {
-      "word": "Jina",
-      "meaning": "Name"
+      "word": "jina",
+      "meaning": "name"
     },
     {
-      "word": "Jina lako",
-      "meaning": "Your name"
+      "word": "jina lako",
+      "meaning": "your name"
     },
     {
-      "word": "Jina lake ni",
-      "meaning": "His name is"
+      "word": "jina lake ni",
+      "meaning": "his name is"
     },
     {
-      "word": "Je",
-      "meaning": "Do you"
+      "word": "je",
+      "meaning": "do you"
     },
     {
-      "word": "Jiko",
+      "word": "jiko",
       "meaning": [
-        "Kitchen",
-        "Stove"
+        "kitchen",
+        "stove"
       ]
     },
     {
-      "word": "Jiwe",
+      "word": "jiwe",
       "meaning": "stone"
     },
     {
-      "word": "Juisi",
-      "meaning": "Juice"
+      "word": "juisi",
+      "meaning": "juice"
     },
     {
-      "word": "Jimbo",
-      "meaning": "State"
+      "word": "jimbo",
+      "meaning": "state"
     }
   ],
   "k": [
     {
-      "word": "Kitamu",
-      "meaning": "Delicious"
+      "word": "kitamu",
+      "meaning": "delicious"
     },
     {
-      "word": "Kifupi",
+      "word": "kifupi",
       "meaning": "short"
     },
     {
-      "word": "Kipana",
+      "word": "kipana",
       "meaning": "wide"
     },
     {
-      "word": "Karatasi",
-      "meaning": "Paper"
+      "word": "karatasi",
+      "meaning": "paper"
     },
     {
-      "word": "Kalamu",
-      "meaning": "Pen"
+      "word": "kalamu",
+      "meaning": "pen"
     },
     {
-      "word": "Kamera",
-      "meaning": "Camera"
+      "word": "kamera",
+      "meaning": "camera"
     },
     {
-      "word": "Kompyuta",
-      "meaning": "Computer"
+      "word": "kompyuta",
+      "meaning": "computer"
     },
     {
-      "word": "Kisima",
+      "word": "kisima",
       "meaning": "well"
     },
     {
-      "word": "Kisiwa",
-      "meaning": "Island"
+      "word": "kisiwa",
+      "meaning": "island"
     },
     {
-      "word": "Kitanda",
-      "meaning": "Bed"
+      "word": "kitanda",
+      "meaning": "bed"
     },
     {
-      "word": "Kiingereza",
-      "meaning": "English Language"
+      "word": "kiingereza",
+      "meaning": "english language"
     },
     {
-      "word": "Kijiko",
-      "meaning": "Spoon"
+      "word": "kijiko",
+      "type": "singular",
+      "meaning": "spoon"
     },
     {
-      "word": "Kiti",
+      "word": "kiti",
+      "type": "singular",
       "meaning": "chair"
     },
     {
-      "word": "Kiatu",
-      "meaning": "Shoe"
+      "word": "kiatu",
+      "type": "singular",
+      "meaning": "shoe"
     },
     {
-      "word": "Kila",
+      "word": "kila",
       "meaning": "each"
     },
     {
-      "word": "Kahawa",
+      "word": "kahawa",
       "meaning": "coffee"
     },
     {
-      "word": "Kisu",
+      "word": "kisu",
       "meaning": "knife"
     },
     {
-      "word": "Kuku",
+      "word": "kuku",
       "meaning": "chicken"
     },
     {
-      "word": "Karoti",
+      "word": "karoti",
       "meaning": "carrots"
     },
     {
-      "word": "Kikombe",
-      "meaning": "Cup"
+      "word": "kikombe",
+      "meaning": "cup"
     },
     {
-      "word": "Kijerumani",
-      "meaning": "German"
+      "word": "kijerumani",
+      "meaning": "german"
     },
     {
-      "word": "Kihispania",
-      "meaning": "Spanish"
+      "word": "kihispania",
+      "meaning": "spanish"
     },
     {
-      "word": "Kirusi",
-      "meaning": "Russian"
+      "word": "kirusi",
+      "meaning": "russian"
     },
     {
-      "word": "Kitallia",
-      "meaning": "Italian"
+      "word": "kitallia",
+      "meaning": "italian"
     },
     {
-      "word": "Kidogo",
-      "meaning": "A little bit"
+      "word": "kidogo",
+      "meaning": "a little bit"
     },
     {
-      "word": "Kiingereza",
-      "meaning": "English"
+      "word": "kiingereza",
+      "meaning": "english"
     },
     {
-      "word": "Kitabu",
-      "meaning": "Book"
+      "word": "kitabu",
+      "meaning": "book"
     },
     {
-      "word": "Kwaheri",
-      "meaning": "Good bye"
+      "word": "kwaheri",
+      "meaning": "good bye"
     },
     {
-      "word": "Kaka",
-      "meaning": "Brother"
+      "word": "kaka",
+      "meaning": "brother"
     },
     {
-      "word": "Kamwe",
+      "word": "kamwe",
       "meaning": [
-        "Not at all",
+        "not at all",
         "don’t mention it"
       ]
     },
     {
-      "word": "Kazi",
-      "meaning": "Work"
+      "word": "kazi",
+      "meaning": "work"
     },
     {
-      "word": "Karibu",
+      "word": "karibu",
       "meaning": [
-        "Welcome",
+        "welcome",
         "you are welcome"
       ]
+    },
+    {
+      "word": "kiazi",
+      "meaning": "potato",
+      "type": "singular"
     }
   ],
   "l": [
     {
-      "word": "Leo",
+      "word": "leo",
       "meaning": [
-        "Day",
-        "Today"
+        "day",
+        "today"
       ]
     },
     {
-      "word": "Langu",
+      "word": "langu",
       "meaning": [
-        "My",
+        "my",
         "mine"
       ]
     },
     {
-      "word": "La",
-      "meaning": "No"
+      "word": "la",
+      "meaning": "no"
     }
   ],
   "m": [
     {
-      "word": "Mashauri",
-      "meaning": "Issues"
+      "word": "mashauri",
+      "meaning": "issues"
     },
     {
-      "word": "Mananasi",
-      "meaning": "Pineapples"
+      "word": "mananasi",
+      "meaning": "pineapples"
     },
     {
-      "word": "Mabadiliko",
-      "meaning": "Changes"
+      "word": "mabadiliko",
+      "meaning": "changes"
     },
     {
-      "word": "Mazungumzo",
-      "meaning": "Conversations"
+      "word": "mazungumzo",
+      "meaning": "conversations"
     },
     {
-      "word": "Mapapai",
+      "word": "mapapai",
       "meaning": "papaya"
     },
     {
-      "word": "Mahindi",
-      "meaning": "Corn"
+      "word": "mahindi",
+      "meaning": "corn"
     },
     {
-      "word": "Mafuta",
-      "meaning": "Oil"
+      "word": "mafuta",
+      "meaning": "oil"
     },
     {
-      "word": "Majibu",
+      "word": "majibu",
       "meaning": "answers"
     },
     {
-      "word": "Mwelekezi",
-      "meaning": "Tour Guide"
+      "word": "mwelekezi",
+      "meaning": "tour guide"
     },
     {
-      "word": "Mafuriko",
-      "meaning": "Flood"
+      "word": "mafuriko",
+      "meaning": "flood"
     },
     {
-      "word": "Mayai",
-      "meaning": "Eggs"
+      "word": "mayai",
+      "type": "plural",
+      "meaning": "eggs"
     },
     {
-      "word": "Maharage",
+      "word": "maharage",
+      "type": "plural",
       "meaning": "beans"
     },
     {
-      "word": "Maji",
+      "word": "maji",
       "meaning": "water"
     },
     {
-      "word": "Maziwa",
+      "word": "maziwa",
       "meaning": "milk"
     },
     {
-      "word": "Mbuzi",
-      "meaning": "Goat"
+      "word": "mbuzi",
+      "meaning": "goat"
     },
     {
-      "word": "Mboga",
+      "word": "mboga",
       "meaning": "vegetables"
     },
     {
-      "word": "Matunda",
+      "word": "matunda",
       "meaning": "fruits"
     },
     {
-      "word": "Maembe",
-      "meaning": "Mangos"
+      "word": "maembe",
+      "meaning": "mangos"
     },
     {
-      "word": "Maparachichi",
-      "meaning": "Avocados"
+      "word": "maparachichi",
+      "meaning": "avocados"
     },
     {
-      "word": "Machungwa",
-      "meaning": "Oranges"
+      "word": "machungwa",
+      "meaning": "oranges"
     },
     {
-      "word": "Mkate",
+      "word": "mkate",
       "meaning": "bread"
     },
     {
-      "word": "Miavuli",
+      "word": "miavuli",
       "meaning": "umbrella"
     },
     {
-      "word": "Mtumbwi",
+      "word": "mtumbwi",
       "meaning": "canoe"
     },
     {
-      "word": "Mpaka",
+      "word": "mpaka",
       "meaning": "border"
     },
     {
-      "word": "Mikuki",
-      "meaning": "Spears"
+      "word": "mikuki",
+      "meaning": "spears"
     },
     {
-      "word": "Mche",
-      "meaning": "Seedling"
+      "word": "mche",
+      "meaning": "seedling"
     },
     {
-      "word": "Miti",
-      "meaning": "Trees"
+      "word": "miti",
+      "meaning": "trees"
     },
     {
-      "word": "Mmea",
+      "word": "mmea",
       "meaning": "plant"
     },
     {
-      "word": "Mkeka",
+      "word": "mkeka",
       "meaning": [
-        "Rug",
-        "Carpet"
+        "rug",
+        "carpet"
       ]
     },
     {
-      "word": "Mkasi",
+      "word": "mkasi",
       "meaning": "scissors"
     },
     {
-      "word": "Mchoro",
+      "word": "mchoro",
       "meaning": [
-        "Drawing",
-        "Diagram",
-        "Sketch"
+        "drawing",
+        "diagram",
+        "sketch"
       ]
     },
     {
-      "word": "Mradi",
-      "meaning": "Project"
+      "word": "mradi",
+      "meaning": "project"
     },
     {
-      "word": "Mfereji",
-      "meaning": "Canal"
+      "word": "mfereji",
+      "meaning": "canal"
     },
     {
-      "word": "Mnyororo",
-      "meaning": "Chain"
+      "word": "mnyororo",
+      "meaning": "chain"
     },
     {
-      "word": "Mchuzi",
-      "meaning": "Sauce"
+      "word": "mchuzi",
+      "meaning": "sauce"
     },
     {
-      "word": "Misitu",
+      "word": "misitu",
       "meaning": "forests"
     },
     {
-      "word": "Mkutanoni",
+      "word": "mkutanoni",
       "meaning": "to a meeting"
     },
     {
-      "word": "Misumari",
+      "word": "misumari",
       "meaning": "nails"
     },
     {
-      "word": "Msikitini",
-      "meaning": "Mosque"
+      "word": "msikitini",
+      "meaning": "mosque"
     },
     {
-      "word": "Mizizi",
-      "meaning": "Roots"
+      "word": "mizizi",
+      "meaning": "roots"
     },
     {
-      "word": "Mipira",
-      "meaning": "Ball"
+      "word": "mipira",
+      "meaning": "ball"
     },
     {
-      "word": "Mizigo",
-      "meaning": "Luggage"
+      "word": "mizigo",
+      "meaning": "luggage"
     },
     {
-      "word": "Mti",
-      "meaning": "Tree"
+      "word": "mti",
+      "meaning": "tree"
     },
     {
-      "word": "Mto",
+      "word": "mto",
       "meaning": [
-        "Pillow",
-        "River"
+        "pillow",
+        "river"
       ]
     },
     {
-      "word": "Mchezo",
-      "meaning": "Game"
+      "word": "mchezo",
+      "meaning": "game"
     },
     {
-      "word": "Mji",
-      "meaning": "Town"
+      "word": "mji",
+      "meaning": "town"
     },
     {
-      "word": "Mlango",
-      "meaning": "Door"
+      "word": "mlango",
+      "meaning": "door"
     },
     {
-      "word": "Muziki",
-      "meaning": "Music"
+      "word": "muziki",
+      "meaning": "music"
     },
     {
-      "word": "Mfuko",
+      "word": "mfuko",
       "meaning": "bag"
     },
     {
-      "word": "Meza",
-      "meaning": "Table"
+      "word": "meza",
+      "meaning": "table"
     },
     {
-      "word": "Moto",
-      "meaning": "Fire"
+      "word": "moto",
+      "meaning": "fire"
     },
     {
-      "word": "Mahali",
-      "meaning": "Place"
+      "word": "mahali",
+      "meaning": "place"
     },
     {
-      "word": "Mhandisi",
-      "meaning": "Engineer"
-    },
-    {
-      "word": "Mhudumu",
-      "meaning": [
-        "Servant",
-        "Hostess",
-        "Waiter"
+      "word": "mhandisi",
+      "meaning": "engineer",
+      "type": "singular",
+      "tag": [
+        "job"
       ]
     },
     {
-      "word": "Mvulana",
-      "meaning": "Boy"
-    },
-    {
-      "word": "Msichana",
-      "meaning": "The Girl"
-    },
-    {
-      "word": "Mkubwa",
+      "word": "mhudumu",
       "meaning": [
-        "Big",
-        "Large",
-        "Huge"
+        "servant",
+        "hostess",
+        "waiter"
       ]
     },
     {
-      "word": "Mzima",
+      "word": "mvulana",
+      "meaning": "boy",
+      "type": "singular"
+    },
+    {
+      "word": "msichana",
+      "meaning": "girl",
+      "type": "singular"
+    },
+    {
+      "word": "mkubwa",
       "meaning": [
-        "Healthy",
-        "Grown up"
+        "big",
+        "large",
+        "huge"
       ]
     },
     {
-      "word": "Mrefu",
+      "word": "mzima",
       "meaning": [
-        "Tall",
-        "Long",
-        "High"
+        "healthy",
+        "grown up"
       ]
     },
     {
-      "word": "Mdogo",
+      "word": "mrefu",
       "meaning": [
-        "Little",
-        "Young",
-        "Small"
+        "tall",
+        "long",
+        "high"
       ]
     },
     {
-      "word": "Mzazi",
-      "meaning": "Parent"
+      "word": "mdogo",
+      "meaning": [
+        "little",
+        "young",
+        "small"
+      ]
     },
     {
-      "word": "Mgeni",
+      "word": "mzazi",
+      "meaning": "parent"
+    },
+    {
+      "word": "mgeni",
       "meaning": [
-        "Visitor",
-        "Guest",
+        "visitor",
+        "guest",
         "foreigner"
       ]
     },
     {
-      "word": "Msafiri",
-      "meaning": "Traveler"
+      "word": "msafiri",
+      "meaning": "traveler"
     },
     {
-      "word": "Mkulima",
+      "word": "mkulima",
       "meaning": "farmer"
     },
     {
-      "word": "Mtu",
+      "word": "mtu",
       "meaning": [
-        "Person",
-        "Human",
-        "Man"
+        "person",
+        "human",
+        "man"
       ]
     },
     {
-      "word": "Mtoto",
-      "meaning": "Child"
+      "word": "mtoto",
+      "meaning": "child"
     },
     {
-      "word": "Mibaya",
+      "word": "mibaya",
+      "type": "singular",
       "meaning": [
-        "Bad",
+        "bad",
         "evil"
       ]
     },
     {
-      "word": "Mzuri",
+      "word": "mzuri",
       "meaning": [
-        "Good",
-        "Beautiful",
-        "Fine"
+        "good",
+        "beautiful",
+        "fine"
       ]
     },
     {
-      "word": "Mpishi",
+      "word": "mpishi",
       "meaning": [
-        "Chef",
+        "chef",
         "cook"
       ]
     },
     {
-      "word": "Mwanaume",
+      "word": "mwanaume",
       "meaning": [
-        "Man",
-        "Male"
+        "man",
+        "male"
       ]
     },
     {
-      "word": "Mwanamke",
+      "word": "mwanamke",
       "meaning": [
-        "Woman",
-        "Female"
+        "woman",
+        "female"
       ]
     },
     {
-      "word": "Mwalimu",
-      "meaning": "Teacher"
+      "word": "mwalimu",
+      "meaning": "teacher"
     },
     {
-      "word": "Mwanafunzi",
-      "meaning": "Student"
-    },
-    {
-      "word": "Marhaba",
-      "meaning": "Thanks for your respect"
-    },
-    {
-      "word": "Mimi",
-      "meaning": "I"
-    },
-    {
-      "word": "Mchana Mwema",
-      "meaning": "Good afternoon"
-    },
-    {
-      "word": "Mchana",
-      "meaning": "Afternoon"
-    },
-    {
-      "word": "Mtanzania",
-      "meaning": "From Tanzania"
-    },
-    {
-      "word": "Mama",
-      "meaning": "Mother"
-    },
-    {
-      "word": "Mambo",
-      "meaning": [
-        "What’s up?",
-        "Hello"
-      ]
-    },
-    {
-      "word": "Mtamu",
-      "meaning": "delicious"
-    },
-    {
-      "word": "Mpole",
-      "meaning": "gentle"
-    },
-    {
-      "word": "Mwembamba",
-      "meaning": [
-        "Slim",
-        "Thin"
-      ],
-      "type": "Singular"
-    },
-    {
-      "word": "Maridadi",
-      "meaning": [
-        "Stylish",
-        "Elegant"
-      ]
-    },
-    {
-      "word": "Mbovu",
-      "meaning": "Broken",
+      "word": "mwanafunzi",
+      "meaning": "student",
       "type": "singular"
     },
     {
-      "word": "Mnene",
-      "meaning": "Fat",
+      "word": "marhaba",
+      "meaning": "thanks for your respect"
+    },
+    {
+      "word": "mimi",
+      "meaning": "i"
+    },
+    {
+      "word": "mchana mwema",
+      "meaning": "good afternoon"
+    },
+    {
+      "word": "mchana",
+      "meaning": "afternoon"
+    },
+    {
+      "word": "mtanzania",
+      "meaning": "from tanzania"
+    },
+    {
+      "word": "mama",
+      "meaning": "mother"
+    },
+    {
+      "word": "mambo",
+      "meaning": [
+        "what’s up?",
+        "hello"
+      ]
+    },
+    {
+      "word": "mtamu",
+      "meaning": "delicious"
+    },
+    {
+      "word": "mpole",
+      "meaning": "gentle"
+    },
+    {
+      "word": "mwembamba",
+      "meaning": [
+        "slim",
+        "thin"
+      ],
+      "type": "singular"
+    },
+    {
+      "word": "maridadi",
+      "meaning": [
+        "stylish",
+        "elegant"
+      ]
+    },
+    {
+      "word": "mbovu",
+      "meaning": "broken",
+      "type": "singular"
+    },
+    {
+      "word": "mnene",
+      "meaning": "fat",
       "type": "singular"
     }
   ],
   "n": [
     {
-      "word": "Ngumu",
-      "meaning": "Hard"
+      "word": "ngumu",
+      "meaning": "hard"
     },
     {
-      "word": "Nchi",
-      "meaning": "Country"
+      "word": "nchi",
+      "meaning": "country"
     },
     {
-      "word": "Nyota",
+      "word": "nyota",
       "meaning": "star"
     },
     {
-      "word": "Nina",
+      "word": "nina",
       "meaning": "i have"
     },
     {
-      "word": "Nanase",
-      "meaning": "Pineapple"
+      "word": "nanase",
+      "meaning": "pineapple"
     },
     {
-      "word": "Ng'ombe",
-      "meaning": "Cow"
+      "word": "ng'ombe",
+      "meaning": "cow"
     },
     {
-      "word": "Nguruwe",
+      "word": "nguruwe",
+      "tag": [
+        "food"
+      ],
+      "type": "plural",
       "meaning": "pigs"
     },
     {
-      "word": "Nyama",
+      "word": "nyama",
+      "tag": [
+        "food"
+      ],
       "meaning": "meat"
     },
     {
-      "word": "Nyanya",
-      "meaning": "tomatoes"
+      "word": "nyanya",
+      "tag": [
+        "food"
+      ],
+      "type": "singular",
+      "meaning": "tomato"
     },
     {
-      "word": "Ndizi",
-      "meaning": "banana"
+      "word": "ndizi",
+      "meaning": "banana",
+      "tag": [
+        "food",
+        "fruit"
+      ]
     },
     {
-      "word": "Ndoo",
-      "meaning": "Bucket"
+      "word": "ndoo",
+      "meaning": "bucket"
     },
     {
-      "word": "Nguo",
+      "word": "nguo",
       "meaning": "clothes"
     },
     {
-      "word": "Ngapi",
-      "meaning": "How many"
+      "word": "ngapi",
+      "meaning": "how many"
     },
     {
-      "word": "Numbari",
-      "meaning": "My number"
+      "word": "numbari",
+      "meaning": "my number"
     },
     {
-      "word": "Niwie radhi",
-      "meaning": "Pardon me"
+      "word": "niwie radhi",
+      "meaning": "pardon me"
     },
     {
-      "word": "Ndio",
-      "meaning": "Yes"
+      "word": "ndio",
+      "meaning": "yes"
     },
     {
-      "word": "Nina Furaha kukutana na wewe ",
-      "meaning": "Nice to meet you"
+      "word": "nina furaha kukutana na wewe ",
+      "meaning": "nice to meet you"
     },
     {
-      "word": "Ninafuraha",
-      "meaning": "I am happy"
+      "word": "ninafuraha",
+      "meaning": "i am happy"
     },
     {
-      "word": "Na",
+      "word": "na",
       "meaning": [
-        "And",
+        "and",
         "with",
         "to"
       ]
     },
     {
-      "word": "Njema",
-      "meaning": "Good"
+      "word": "njema",
+      "meaning": "good"
     },
     {
-      "word": "Ni Nani",
-      "meaning": "Who is"
+      "word": "ni nani",
+      "meaning": "who is"
     },
     {
-      "word": "Nyumbani",
-      "meaning": "Home"
+      "word": "nyumbani",
+      "meaning": "home"
     },
     {
-      "word": "Ninyi",
-      "meaning": "You"
+      "word": "ninyi",
+      "meaning": "you"
     },
     {
-      "word": "Nzuri",
+      "word": "nzuri",
       "meaning": [
-        "Good",
-        "Well",
-        "Fine"
+        "good",
+        "well",
+        "fine"
       ]
     }
   ],
   "o": [
     {
-      "word": "Ofisi",
-      "meaning": "Office"
+      "word": "ofisi",
+      "meaning": "office"
     }
   ],
   "p": [
     {
-      "word": "Poa",
-      "meaning": "Cool"
+      "word": "poa",
+      "meaning": "cool"
     },
     {
-      "word": "Pole",
-      "meaning": "Sorry"
+      "word": "pole",
+      "meaning": "sorry"
     },
     {
-      "word": "Pumba",
-      "meaning": "Stupid"
+      "word": "pumba",
+      "meaning": "stupid"
     },
     {
-      "word": "Pesa",
-      "meaning": "Money"
+      "word": "pesa",
+      "meaning": "money"
     },
     {
-      "word": "Pilipili hoho",
-      "meaning": "bell peppers"
+      "word": "pilipili hoho",
+      "meaning": "bell peppers",
+      "tag": [
+        "food"
+      ]
     },
     {
-      "word": "Picha",
-      "meaning": "Picture"
+      "word": "picha",
+      "meaning": "picture"
     },
     {
-      "word": "Pombe",
-      "meaning": "Alcohol"
+      "word": "pombe",
+      "meaning": "alcohol"
     }
   ],
   "q": [],
   "r": [
     {
-      "word": "Rafiki",
-      "meaning": "Friend"
+      "word": "rafiki",
+      "meaning": "friend"
     }
   ],
   "s": [
     {
-      "word": "Safi",
+      "word": "safi",
       "meaning": [
-        "Good",
-        "Well"
+        "good",
+        "well"
       ]
     },
     {
-      "word": "Simu",
-      "meaning": "Phone"
+      "word": "simu",
+      "meaning": "phone"
     },
     {
-      "word": "Shule",
-      "meaning": "School"
+      "word": "shule",
+      "meaning": "school"
     },
     {
-      "word": "Sina",
-      "meaning": "I don’t have"
+      "word": "sina",
+      "meaning": "i don’t have"
     },
     {
-      "word": "Samaki",
+      "word": "samaki",
       "meaning": "fish"
     },
     {
-      "word": "Sahani",
-      "meaning": "Dishes"
+      "word": "sahani",
+      "meaning": "dishes"
     },
     {
-      "word": "Sabuni",
-      "meaning": "Soap"
+      "word": "sabuni",
+      "meaning": "soap"
     },
     {
-      "word": "Sufuria",
+      "word": "sufuria",
       "meaning": [
-        "Pot",
+        "pot",
         "saucepan"
       ]
     },
     {
-      "word": "Sijambo",
-      "meaning": "I am fine"
+      "word": "sijambo",
+      "meaning": "i am fine"
     },
     {
-      "word": "Salama",
-      "meaning": "Peaceful"
+      "word": "salama",
+      "meaning": "peaceful"
     },
     {
-      "word": "Sisi",
-      "meaning": "We"
+      "word": "sisi",
+      "meaning": "we"
     },
     {
-      "word": "Shikamoo",
-      "meaning": "Hello"
+      "word": "shikamoo",
+      "meaning": "hello"
     },
     {
-      "word": "Safari",
-      "meaning": "Travel"
+      "word": "safari",
+      "meaning": "travel"
     },
     {
-      "word": "Simba",
+      "word": "simba",
       "meaning": [
-        "Strength",
+        "strength",
         "lion"
       ]
     },
     {
-      "word": "Seremala",
-      "meaning": "Carpenter"
+      "word": "seremala",
+      "meaning": "carpenter"
     },
     {
-      "word": "Si",
+      "word": "si",
       "meaning": [
-        "Is not",
-        "Are not",
-        "Am not"
+        "is not",
+        "are not",
+        "am not"
       ]
     },
     {
-      "word": "Siku njema",
-      "meaning": "Good Day"
+      "word": "siku njema",
+      "meaning": "good day"
     },
     {
-      "word": "Samahani",
+      "word": "samahani",
       "meaning": [
-        "Forgive Me",
-        "Excuse Me"
+        "forgive me",
+        "excuse me"
       ]
     }
   ],
   "t": [
     {
-      "word": "Tajiri",
+      "word": "tajiri",
       "meaning": [
-        "Wealthy",
-        "Rich"
+        "wealthy",
+        "rich"
       ]
     },
     {
-      "word": "Tuna",
-      "meaning": "We have"
+      "word": "tuna",
+      "meaning": "we have"
     },
     {
-      "word": "Taifa",
-      "meaning": "We have"
+      "word": "taifa",
+      "meaning": "we have"
     },
     {
-      "word": "Tunda",
-      "meaning": "Fruit"
+      "word": "tunda",
+      "meaning": "fruit"
     },
     {
-      "word": "Taa",
-      "meaning": "Lamp"
+      "word": "taa",
+      "meaning": "lamp"
     },
     {
-      "word": "Takataka",
+      "word": "takataka",
       "meaning": [
         "rubbish",
         "trash",
@@ -1310,381 +1353,399 @@
       ]
     },
     {
-      "word": "Tena",
+      "word": "tena",
       "meaning": "again"
     },
     {
-      "word": "Tuonane tena",
-      "meaning": "See you again"
+      "word": "tuonane tena",
+      "meaning": "see you again"
     },
     {
-      "word": "Tutaonana baadaye",
-      "meaning": "See you later"
+      "word": "tutaonana baadaye",
+      "meaning": "see you later"
     },
     {
-      "word": "Tafadhali",
-      "meaning": "Please"
+      "word": "tafadhali",
+      "meaning": "please"
     }
   ],
   "u": [
     {
-      "word": "Ua",
-      "meaning": "Flower"
+      "word": "ua",
+      "meaning": "flower"
     },
     {
-      "word": "Una",
+      "word": "una",
       "meaning": "you have"
     },
     {
-      "word": "Umelalaje",
-      "meaning": "How did you sleep?"
+      "word": "umelalaje",
+      "meaning": "how did you sleep?"
     },
     {
-      "word": "Ufagio",
-      "meaning": "Broom"
+      "word": "ufagio",
+      "meaning": "broom"
     },
     {
-      "word": "Umeshindaje",
-      "meaning": "How have you been?"
+      "word": "umeshindaje",
+      "meaning": "how have you been?"
     },
     {
-      "word": "Usiku Mwema",
-      "meaning": "Good night"
+      "word": "usiku mwema",
+      "meaning": "good night"
     },
     {
-      "word": "Usiku",
-      "meaning": "Night"
+      "word": "usiku",
+      "meaning": "night"
     }
   ],
   "v": [
     {
-      "word": "Vibovu",
-      "meaning": "Broken",
+      "word": "vibovu",
+      "meaning": "broken",
       "type": "plural"
     },
     {
-      "word": "Viti",
+      "word": "viti",
       "meaning": "chairs"
     },
     {
-      "word": "Vyepesi",
-      "meaning": "Light"
+      "word": "vyepesi",
+      "meaning": "light"
     },
     {
-      "word": "Vitanda",
-      "meaning": "Beds"
+      "word": "vitanda",
+      "meaning": "beds"
     },
     {
-      "word": "Vikubwa",
+      "word": "vikubwa",
       "meaning": [
-        "Big",
-        "Large"
+        "big",
+        "large"
       ]
     },
     {
-      "word": "Visu",
-      "meaning": "Knives"
+      "word": "visu",
+      "meaning": "knives"
     },
     {
-      "word": "Vyao",
-      "meaning": "Their Food"
+      "word": "vyao",
+      "meaning": "their food"
     },
     {
-      "word": "Vyakula",
+      "word": "vyakula",
       "meaning": [
-        "Foods",
-        "Meals"
+        "foods",
+        "meals"
       ]
     },
     {
-      "word": "Vyombo",
-      "meaning": "Dishes"
+      "word": "vyombo",
+      "meaning": "dishes"
     },
     {
-      "word": "Vitunguu saumu",
-      "meaning": "Garlic"
+      "word": "vitunguu saumu",
+      "tag": [
+        "food"
+      ],
+      "meaning": "garlic"
     },
     {
-      "word": "Vitunguu",
-      "meaning": "onions"
-    },
-    {
-      "word": "Vinywaji",
-      "meaning": [
-        "Drinks",
-        "Beverages"
+      "word": "vitunguu",
+      "meaning": "onions",
+      "tag": [
+        "food"
       ]
     },
     {
-      "word": "Viazi",
-      "meaning": "potatoes"
+      "word": "vinywaji",
+      "meaning": [
+        "drinks",
+        "beverages"
+      ]
     },
     {
-      "word": "Vitabu",
-      "meaning": "Books"
+      "word": "viazi",
+      "meaning": "potatoes",
+      "type": "plural"
     },
     {
-      "word": "Viatu",
-      "meaning": "Shoes"
+      "word": "vitabu",
+      "meaning": "books"
     },
     {
-      "word": "Vitabu",
-      "meaning": "Books"
+      "word": "viatu",
+      "meaning": "shoes"
+    },
+    {
+      "word": "vitabu",
+      "meaning": "books"
     }
   ],
   "w": [
     {
-      "word": "Werevu",
+      "word": "werevu",
       "meaning": [
         "clever",
         "smart"
       ]
     },
     {
-      "word": "Waaminifu",
+      "word": "waaminifu",
       "meaning": [
-        "Honest",
-        "Trustworthy",
-        "Faithful"
+        "honest",
+        "trustworthy",
+        "faithful"
       ]
     },
     {
-      "word": "Wembamba",
+      "word": "wembamba",
       "meaning": [
-        "Thin",
-        "Slim"
+        "thin",
+        "slim"
       ],
       "type": "plural"
     },
     {
-      "word": "Wapya",
+      "word": "wapya",
       "meaning": "new"
     },
     {
-      "word": "Waridi",
-      "meaning": "Rose"
+      "word": "waridi",
+      "meaning": "rose"
     },
     {
-      "word": "Wana",
+      "word": "wana",
       "meaning": "they have"
     },
     {
-      "word": "Wanyama",
-      "meaning": "Animals"
+      "word": "wanyama",
+      "tag": [
+        "animal"
+      ],
+      "type": "plural",
+      "meaning": "animals"
     },
     {
-      "word": "Wali",
+      "word": "wali",
       "meaning": "rice"
     },
     {
-      "word": "Wa",
-      "meaning": "Of the"
+      "word": "wa",
+      "meaning": "of the"
     },
     {
-      "word": "Wewe mzima",
-      "meaning": "How are you?"
+      "word": "wewe mzima",
+      "meaning": "how are you?"
     },
     {
-      "word": "Muuguzi",
-      "meaning": "Nurse"
+      "word": "muuguzi",
+      "meaning": "nurse"
     },
     {
-      "word": "Mafundi",
-      "meaning": "Craftsman"
+      "word": "mafundi",
+      "meaning": "craftsman"
     },
     {
-      "word": "Wavulana",
-      "meaning": "Boys"
+      "word": "wavulana",
+      "meaning": "boys",
+      "tag": [
+        "noun"
+      ],
+      "type": "plural"
     },
     {
-      "word": "Wadogo",
+      "word": "wadogo",
       "meaning": [
-        "Small",
-        "Little",
+        "small",
+        "little",
         "young"
       ],
       "type": "plural"
     },
     {
-      "word": "Wachache",
+      "word": "wachache",
+      "type": "plural",
       "meaning": "few"
     },
     {
       "word": "wabaya",
       "meaning": [
-        "Bad",
+        "bad",
         "evil"
       ],
       "type": "plural"
     },
     {
-      "word": "Wanene",
+      "word": "wanene",
       "meaning": [
-        "Fat",
-        "Large"
+        "fat",
+        "large"
       ],
       "type": "plural"
     },
     {
-      "word": "Wake",
+      "word": "wake",
       "meaning": [
-        "His",
-        "Her"
+        "his",
+        "her"
       ]
     },
     {
-      "word": "Wetu",
-      "meaning": "Our"
+      "word": "wetu",
+      "meaning": "our"
     },
     {
-      "word": "Wenu",
-      "meaning": "Your",
+      "word": "wenu",
+      "meaning": "your",
       "type": "plural"
     },
+    // {
+    //   "word": "waku",
+    //   "meaning": "your",
+    //   "type": "plural"
+    // },
     {
-      "word": "Waku",
-      "meaning": "Your",
-      "type": "singular"
-    },
-    {
-      "word": "Wangu",
+      "word": "wangu",
       "meaning": [
-        "My",
+        "my",
         "mine"
       ]
     },
     {
-      "word": "Wazizi",
-      "meaning": "Parents"
+      "word": "wazizi",
+      "meaning": "parents"
     },
     {
-      "word": "Wageni",
+      "word": "wageni",
+      "type": "plural",
       "meaning": [
-        "Visitors",
-        "Guests",
+        "visitors",
+        "guests",
         "foreigners"
       ]
     },
     {
-      "word": "Wasafiri",
-      "meaning": "Travelers"
+      "word": "wasafiri",
+      "meaning": "travelers"
     },
     {
-      "word": "Wakulima",
+      "word": "wakulima",
       "meaning": "farmers"
     },
     {
-      "word": "Watu",
+      "word": "watu",
       "meaning": [
-        "People",
-        "Persons",
-        "Humans"
+        "people",
+        "persons",
+        "humans"
       ]
     },
     {
-      "word": "Wazuri",
+      "word": "wazuri",
       "meaning": [
-        "Good",
+        "good",
         "nice"
       ],
       "type": "plural"
     },
     {
-      "word": "Wapishi",
+      "word": "wapishi",
       "meaning": [
-        "Chefs",
+        "chefs",
         "cooks"
       ],
       "type": "plural"
     },
     {
-      "word": "Watoto",
+      "word": "watoto",
       "meaning": [
-        "Children",
-        "Kids"
+        "children",
+        "kids"
       ],
       "type": "plural"
     },
     {
-      "word": "Wanaume",
-      "meaning": "Men",
+      "word": "wanaume",
+      "meaning": "men",
       "type": "plural"
     },
     {
-      "word": "Wanawake",
+      "word": "wanawake",
       "meaning": "women",
       "type": "plural"
     },
     {
-      "word": "Wanafunzi",
-      "meaning": "Students",
+      "word": "wanafunzi",
+      "meaning": "students",
       "type": "plural"
     },
     {
-      "word": "Walimu",
-      "meaning": "Teachers",
+      "word": "walimu",
+      "meaning": "teachers",
       "type": "plural"
     },
     {
-      "word": "Wachina",
-      "meaning": "Chinese",
+      "word": "wachina",
+      "meaning": "chinese",
       "type": "plural"
     },
     {
-      "word": "Wao",
-      "meaning": "They"
+      "word": "wao",
+      "meaning": "they"
     },
     {
-      "word": "Wewe",
-      "meaning": "You"
+      "word": "wewe",
+      "meaning": "you"
     }
   ],
   "x": [],
   "y": [
     {
-      "word": "Yeye",
+      "word": "yeye",
       "meaning": [
-        "He",
-        "She"
+        "he",
+        "she"
       ]
     },
     {
-      "word": "Yangu",
+      "word": "yangu",
       "meaning": "mine"
     },
     {
-      "word": "Yake",
+      "word": "yake",
       "meaning": [
-        "Its",
+        "its",
         "her",
         "his"
       ]
     },
     {
-      "word": "Yananukia",
-      "meaning": "Smell good"
+      "word": "yananukia",
+      "meaning": "smell good"
     },
     {
-      "word": "Yai",
+      "word": "yai",
+      "type": "singular",
       "meaning": "egg"
     },
     {
-      "word": "Yetu",
-      "meaning": "Our"
+      "word": "yetu",
+      "meaning": "our"
     },
     {
-      "word": "Yao",
-      "meaning": "Their"
+      "word": "yao",
+      "meaning": "their"
     }
   ],
   "z": [
     {
       "word": "Zawadi",
-      "meaning": "Gifts"
+      "meaning": "gifts"
     },
     {
       "word": "Zungumzo",
-      "meaning": "GifConversationts"
+      "meaning": "gifconversationts"
     },
     {
       "word": "Ziwa",
