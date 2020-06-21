@@ -130,6 +130,7 @@
     {
       "word": "chumba",
       "meaning": "room",
+      "type": "singular",
       "tags": [
         "home"
       ]
@@ -137,6 +138,7 @@
     {
       "word": "chupa",
       "meaning": "bottle",
+      "type": "singular",
       "tags": [
         "noun"
       ]
@@ -153,7 +155,8 @@
       "word": "chakula",
       "meaning": "food",
       "tags": [
-        "food"
+        "food",
+        "noun"
       ]
     },
     {
@@ -213,7 +216,7 @@
       "meaning": "their"
     },
     {
-      "word": "chuo",
+      "word": "chuo kikuu",
       "meaning": [
         "college",
         " university"
@@ -270,6 +273,7 @@
     {
       "word": "dirisha",
       "meaning": "window",
+      "type": "singular",
       "tags": [
         "noun",
         "home"
@@ -328,14 +332,19 @@
       "type": "singular",
       "meaning": "how are you",
       "tags": [
-        "greeting"
+        "greeting",
+        "question"
       ]
     },
     {
       "word": "hawajambo",
-      "meaning": "how are they",
+      "meaning": [
+        "how are they",
+        "they are fine"
+      ],
       "tags": [
-        "greeting"
+        "greeting",
+        "question"
       ]
     },
     {
@@ -440,7 +449,10 @@
     },
     {
       "word": "jioni njema",
-      "meaning": "good evening"
+      "meaning": "good evening",
+      "tags": [
+        "greeting"
+      ]
     },
     {
       "word": "jina",
@@ -455,14 +467,27 @@
       "meaning": "his name is"
     },
     {
+      "word": "jina langu ni nani",
+      "meaning": "what is my name",
+      "tags": [
+        "question"
+      ]
+    },
+    {
       "word": "je",
-      "meaning": "do you"
+      "meaning": "do you",
+      "tags": [
+        "question"
+      ]
     },
     {
       "word": "jiko",
       "meaning": [
         "kitchen",
         "stove"
+      ],
+      "tags": [
+        "home"
       ]
     },
     {
@@ -481,15 +506,24 @@
   "k": [
     {
       "word": "kitamu",
-      "meaning": "delicious"
+      "meaning": "delicious",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "kifupi",
-      "meaning": "short"
+      "meaning": "short",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "kipana",
-      "meaning": "wide"
+      "meaning": "wide",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "karatasi",
@@ -607,7 +641,13 @@
     },
     {
       "word": "kazi",
-      "meaning": "work"
+      "meaning": [
+        "work",
+        "job"
+      ],
+      "tags": [
+        "noun"
+      ]
     },
     {
       "word": "karibu",
@@ -645,35 +685,52 @@
   "m": [
     {
       "word": "mashauri",
-      "meaning": "issues"
+      "meaning": "issues",
+      "type": "plural"
     },
     {
       "word": "mananasi",
-      "meaning": "pineapples"
+      "meaning": "pineapples",
+      "type": "plural",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mabadiliko",
-      "meaning": "changes"
+      "meaning": "changes",
+      "type": "plural"
     },
     {
       "word": "mazungumzo",
-      "meaning": "conversations"
+      "meaning": "conversations",
+      "type": "plural"
     },
     {
       "word": "mapapai",
-      "meaning": "papaya"
+      "meaning": "papaya",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mahindi",
-      "meaning": "corn"
+      "meaning": "corn",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mafuta",
-      "meaning": "oil"
+      "meaning": "oil",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "majibu",
-      "meaning": "answers"
+      "meaning": "answers",
+      "type": "plural"
     },
     {
       "word": "mwelekezi",
@@ -686,48 +743,81 @@
     {
       "word": "mayai",
       "type": "plural",
-      "meaning": "eggs"
+      "meaning": "eggs",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "maharage",
       "type": "plural",
-      "meaning": "beans"
+      "meaning": "beans",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "maji",
-      "meaning": "water"
+      "meaning": "water",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "maziwa",
-      "meaning": "milk"
+      "meaning": "milk",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mbuzi",
-      "meaning": "goat"
+      "meaning": "goat",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mboga",
-      "meaning": "vegetables"
+      "meaning": "vegetables",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "matunda",
-      "meaning": "fruits"
+      "meaning": "fruits",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "maembe",
-      "meaning": "mangos"
+      "meaning": "mangos",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "maparachichi",
-      "meaning": "avocados"
+      "meaning": "avocados",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "machungwa",
-      "meaning": "oranges"
+      "meaning": "oranges",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "mkate",
-      "meaning": "bread"
+      "meaning": "bread",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "miavuli",
@@ -766,7 +856,11 @@
     },
     {
       "word": "mkasi",
-      "meaning": "scissors"
+      "meaning": "scissors",
+      "type": "plural",
+      "tags": [
+        "noun"
+      ]
     },
     {
       "word": "mchoro",
@@ -790,7 +884,10 @@
     },
     {
       "word": "mchuzi",
-      "meaning": "sauce"
+      "meaning": "sauce",
+      "tags": [
+        "food"
+      ]
     },
     {
       "word": "misitu",
@@ -837,7 +934,10 @@
     },
     {
       "word": "mji",
-      "meaning": "town"
+      "meaning": [
+        "town",
+        "city"
+      ]
     },
     {
       "word": "mlango",
@@ -867,7 +967,7 @@
       "word": "mhandisi",
       "meaning": "engineer",
       "type": "singular",
-      "tag": [
+      "tags": [
         "job"
       ]
     },
@@ -941,6 +1041,13 @@
       "meaning": "farmer"
     },
     {
+      "word": "mabovu",
+      "meaning": [
+        "rotten",
+        "broken"
+      ]
+    },
+    {
       "word": "mtu",
       "meaning": [
         "person",
@@ -958,6 +1065,9 @@
       "meaning": [
         "bad",
         "evil"
+      ],
+      "tags": [
+        "adjective"
       ]
     },
     {
@@ -1031,7 +1141,10 @@
     },
     {
       "word": "mtamu",
-      "meaning": "delicious"
+      "meaning": "delicious",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "mpole",
@@ -1049,7 +1162,8 @@
       "word": "maridadi",
       "meaning": [
         "stylish",
-        "elegant"
+        "elegant",
+        "fancy"
       ]
     },
     {
@@ -1066,7 +1180,10 @@
   "n": [
     {
       "word": "ngumu",
-      "meaning": "hard"
+      "meaning": "hard",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "nchi",
@@ -1090,7 +1207,7 @@
     },
     {
       "word": "nguruwe",
-      "tag": [
+      "tags": [
         "food"
       ],
       "type": "plural",
@@ -1098,14 +1215,14 @@
     },
     {
       "word": "nyama",
-      "tag": [
+      "tags": [
         "food"
       ],
       "meaning": "meat"
     },
     {
       "word": "nyanya",
-      "tag": [
+      "tags": [
         "food"
       ],
       "type": "singular",
@@ -1114,7 +1231,7 @@
     {
       "word": "ndizi",
       "meaning": "banana",
-      "tag": [
+      "tags": [
         "food",
         "fruit"
       ]
@@ -1165,7 +1282,10 @@
     },
     {
       "word": "ni nani",
-      "meaning": "who is"
+      "meaning": "who is",
+      "tags": [
+        "question"
+      ]
     },
     {
       "word": "nyumbani",
@@ -1210,7 +1330,7 @@
     {
       "word": "pilipili hoho",
       "meaning": "bell peppers",
-      "tag": [
+      "tags": [
         "food"
       ]
     },
@@ -1221,6 +1341,14 @@
     {
       "word": "pombe",
       "meaning": "alcohol"
+    },
+    {
+      "word": "pia",
+      "meaning": [
+        "also",
+        "too",
+        "as well"
+      ]
     }
   ],
   "q": [],
@@ -1326,6 +1454,9 @@
       "meaning": [
         "wealthy",
         "rich"
+      ],
+      "tags": [
+        "adjective"
       ]
     },
     {
@@ -1383,6 +1514,13 @@
       "meaning": "how did you sleep?"
     },
     {
+      "word": "umeamkaje",
+      "meaning": "how did you wake up",
+      "tags": [
+        "question"
+      ]
+    },
+    {
       "word": "ufagio",
       "meaning": "broom"
     },
@@ -1401,6 +1539,11 @@
   ],
   "v": [
     {
+      "word": "vijiko",
+      "meaning": "spoons",
+      "type": "plural"
+    },
+    {
       "word": "vibovu",
       "meaning": "broken",
       "type": "plural"
@@ -1411,7 +1554,10 @@
     },
     {
       "word": "vyepesi",
-      "meaning": "light"
+      "meaning": "light",
+      "tags": [
+        "adjective"
+      ]
     },
     {
       "word": "vitanda",
@@ -1422,6 +1568,9 @@
       "meaning": [
         "big",
         "large"
+      ],
+      "tags": [
+        "adjective"
       ]
     },
     {
@@ -1445,7 +1594,7 @@
     },
     {
       "word": "vitunguu saumu",
-      "tag": [
+      "tags": [
         "food"
       ],
       "meaning": "garlic"
@@ -1453,7 +1602,7 @@
     {
       "word": "vitunguu",
       "meaning": "onions",
-      "tag": [
+      "tags": [
         "food"
       ]
     },
@@ -1475,11 +1624,13 @@
     },
     {
       "word": "viatu",
-      "meaning": "shoes"
+      "meaning": "shoes",
+      "type": "plural"
     },
     {
-      "word": "vitabu",
-      "meaning": "books"
+      "word": "vizuri",
+      "type": "singular",
+      "meaning": "good"
     }
   ],
   "w": [
@@ -1488,6 +1639,9 @@
       "meaning": [
         "clever",
         "smart"
+      ],
+      "tags": [
+        "adjective"
       ]
     },
     {
@@ -1496,6 +1650,9 @@
         "honest",
         "trustworthy",
         "faithful"
+      ],
+      "tags": [
+        "adjective"
       ]
     },
     {
@@ -1520,7 +1677,7 @@
     },
     {
       "word": "wanyama",
-      "tag": [
+      "tags": [
         "animal"
       ],
       "type": "plural",
@@ -1549,7 +1706,7 @@
     {
       "word": "wavulana",
       "meaning": "boys",
-      "tag": [
+      "tags": [
         "noun"
       ],
       "type": "plural"
@@ -1600,11 +1757,10 @@
       "meaning": "your",
       "type": "plural"
     },
-    // {
-    //   "word": "waku",
-    //   "meaning": "your",
-    //   "type": "plural"
-    // },
+    {
+      "word": "waku",
+      "meaning": "of"
+    },
     {
       "word": "wangu",
       "meaning": [
