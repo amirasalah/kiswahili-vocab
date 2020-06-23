@@ -767,11 +767,13 @@ module.exports = {
     },
     {
       word: 'mmea',
+      tags: ['noun'],
       meaning: 'plant',
     },
     {
       word: 'mkeka',
       meaning: ['rug', 'carpet'],
+      tags: ['noun', 'home'],
     },
     {
       word: 'mkasi',
@@ -835,6 +837,7 @@ module.exports = {
     {
       word: 'mto',
       meaning: ['pillow', 'river'],
+      tags: ['noun'],
     },
     {
       word: 'mchezo',
@@ -854,7 +857,7 @@ module.exports = {
     },
     {
       word: 'mfuko',
-      meaning: 'bag',
+      meaning: ['bag', 'pocket','backpack'],
     },
     {
       word: 'meza',
@@ -895,6 +898,10 @@ module.exports = {
     {
       word: 'mzima',
       meaning: ['healthy', 'grown up'],
+    },
+    {
+      word: 'mzigo',
+      meaning: ['package', 'luggage'],
     },
     {
       word: 'mrefu',
