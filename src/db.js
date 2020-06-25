@@ -1,6 +1,26 @@
 module.exports = {
   a: [
     {
+      word: 'Arobaini',
+      meaning: 'Fourty',
+    },
+    {
+      word: 'Alizaliwa',
+      meaning: 'he was born',
+    },
+    {
+      word: 'Andika',
+      meaning: 'Write',
+    },
+    {
+      word: 'Amka',
+      meaning: 'Wake up',
+    },
+    {
+      word: 'Anza',
+      meaning: ['Begin', 'Start'],
+    },
+    {
       word: 'Anakuja',
       meaning: ['He comes', 'She comes'],
       tags: [''],
@@ -212,6 +232,10 @@ module.exports = {
   ],
   c: [
     {
+      word: 'Cheza',
+      meaning: ['Dance', 'Play'],
+    },
+    {
       word: 'chumba',
       meaning: 'room',
       type: 'singular',
@@ -325,8 +349,65 @@ module.exports = {
       meaning: 'bridge',
     },
   ],
-  e: [],
+  e: [
+    {
+      word: 'Endesha',
+      meaning: ['Drive', 'Ride'],
+    },
+    {
+      word: 'Enda',
+      meaning: 'Go',
+    },
+    {
+      word: 'elfu mbili',
+      meaning: ['2000', 'two thousands'],
+    },
+    {
+      word: 'elfu moja',
+      meaning: ['1000', 'one thousand'],
+    },
+  ],
   f: [
+    {
+      word: 'Fuga',
+      meaning: ['Keep', 'Raise'],
+    },
+    {
+      word: 'Funga',
+      meaning: ['Close', 'Fasten', 'Tie', 'Tie'],
+    },
+    {
+      word: 'Futa',
+      meaning: ['Dust', 'Wipe', 'Erase'],
+    },
+    {
+      word: 'Fikiri',
+      meaning: 'Think',
+    },
+    {
+      word: 'Fika',
+      meaning: 'Arrive',
+    },
+    {
+      word: 'Fanya',
+      meaning: 'Do',
+    },
+    {
+      word: 'Fua',
+      meaning: 'Wash clothes',
+    },
+    {
+      word: 'Fungui',
+      meaning: 'Open',
+    },
+    {
+      word: 'Fagia',
+      meaning: 'Sweep',
+    },
+    {
+      word: 'Fundisha',
+      meaning: 'Teach',
+    },
     {
       word: 'familia',
       meaning: 'family',
@@ -350,6 +431,310 @@ module.exports = {
     },
   ],
   h: [
+    {
+      word: 'Hujaribi',
+      meaning: 'you don’t try',
+    },
+    {
+      word: 'Hulali',
+      meaning: 'You don’t sleep',
+    },
+    {
+      word: 'Hujibu',
+      meaning: ['you don’t reply', 'you don’t answer'],
+    },
+    {
+      word: 'Hukutani',
+      meaning: 'you don’t meet',
+    },
+    {
+      word: 'Huamki',
+      meaning: 'you don’t wake up',
+    },
+    {
+      word: 'Hupiki',
+      meaning: 'you don’t cook',
+    },
+    {
+      word: 'Hufikiri',
+      meaning: 'you don’t think',
+    },
+    {
+      word: 'Hutembei',
+      meaning: 'you don’t Walk',
+    },
+    {
+      word: 'Hukuji',
+      meaning: 'you don’t come',
+    },
+    {
+      word: 'Husomi',
+      meaning: ['you don’t read', 'you don’t study'],
+    },
+    {
+      word: 'Huandiki',
+      meaning: 'You don’t write',
+    },
+    {
+      word: 'Hupendi',
+      meaning: ['You don’t Love', 'You don’t Like to'],
+    },
+    {
+      word: 'Huhitaji',
+      meaning: 'You don’t need',
+    },
+    {
+      word: 'Hunywi',
+      meaning: 'you don’t drink',
+    },
+    {
+      word: 'Huongei',
+      meaning: 'You all don’t talk',
+    },
+    {
+      word: 'Hufiki',
+      meaning: 'You all don’t arrive',
+    },
+    {
+      word: 'Hufanya',
+      meaning: 'You all don’t',
+    },
+    {
+      word: 'Huweza',
+      meaning: 'You all can not',
+    },
+    {
+      word: 'Hurudi',
+      meaning: 'You all don’t return',
+    },
+    {
+      word: 'Hatufiki',
+      meaning: 'we don’t arrive',
+    },
+    {
+      word: 'Hatuongei',
+      meaning: 'we don’t talk',
+    },
+    {
+      word: 'Hatukuli',
+      meaning: 'We don’t eat',
+    },
+    {
+      word: 'Hatufanyi',
+      meaning: 'we don’t',
+    },
+    {
+      word: 'Hatuwezi',
+      meaning: 'we can’t',
+    },
+    {
+      word: 'Haturudi',
+      meaning: 'we don’t return',
+    },
+    {
+      word: 'Hatulali',
+      meaning: 'we don’t sleep',
+    },
+    {
+      word: 'Hatujaribu',
+      meaning: 'we don’t try',
+    },
+    {
+      word: 'Huendi',
+      meaning: 'you don’t go',
+    },
+    {
+      word: 'Hukimbii',
+      meaning: 'you don’t run',
+    },
+    {
+      word: 'Hakimbii',
+      meaning: ['He doesn’t run', 'She doesn’t run'],
+    },
+    {
+      word: 'Haandiki',
+      meaning: ['He doesn’t write', 'She doesn’t write'],
+    },
+    {
+      word: 'Hanywi',
+      meaning: ['He doesn’t drink', 'She doesn’t drink'],
+    },
+    {
+      word: 'Hapendi',
+      meaning: [
+        'He doesn’t Love',
+        'She doesn’t Love',
+        'He doesn’t Like',
+        'She doesn’t Like',
+      ],
+    },
+    {
+      word: 'Hahitaji',
+      meaning: ['He doesn’t need', 'She doesn’t need'],
+    },
+    {
+      word: 'Hasomi',
+      meaning: [
+        'He doesn’t read',
+        'She doesn’t read',
+        'He doesn’t studies',
+        'She doesn’t studies',
+      ],
+    },
+    {
+      word: 'Hajibu',
+      meaning: [
+        'He doesn’t reply',
+        'She doesn’t reply',
+        'He doesn’t answer',
+        'She doesn’t answer',
+      ],
+    },
+    {
+      word: 'Hamchezi',
+      meaning: ['you don’t dance', 'you don’t play'],
+    },
+    {
+      word: 'Hachezi',
+      meaning: [
+        'He doesn’t play',
+        'She doesn’t dance',
+        'He doesn’t dance',
+        'She doesn’t play',
+      ],
+    },
+    {
+      word: 'Hakuji',
+      meaning: ['He doesn’t come', 'She doesn’t come'],
+    },
+    {
+      word: 'Hamsini',
+      meaning: 'fifty',
+    },
+    {
+      word: 'Hitaji',
+      meaning: 'Need',
+    },
+    {
+      word: 'Hafikiri',
+      meaning: ['He don’t think', 'she don’t think'],
+    },
+    {
+      word: 'Hatembei',
+      meaning: ['He don’t Walk', 'she don’t Walk'],
+    },
+    {
+      word: 'Hapiki',
+      meaning: ['He don’t cook', 'she don’t cook'],
+    },
+    {
+      word: 'Hakutani',
+      meaning: ['He don’t meet', 'she don’t meet'],
+    },
+    {
+      word: 'Haamki',
+      meaning: ['He don’t wake up', 'she don’t wake up'],
+    },
+    {
+      word: 'Haendi',
+      meaning: ['He don’t go', 'she don’t go'],
+    },
+    {
+      word: 'Hafiki',
+      meaning: ['He don’t arrive', 'she don’t arrive'],
+    },
+    {
+      word: 'Haongei',
+      meaning: ['she don’t talk', 'He don’t talk'],
+    },
+    {
+      word: 'hamli',
+      meaning: 'You all don’t eat',
+    },
+    {
+      word: 'Hakula',
+      meaning: ['She doesn’t eat', 'He doesn’t eat'],
+    },
+    {
+      word: 'Hafanya',
+      meaning: ['She doesn’t ', 'He doesn’t '],
+    },
+    {
+      word: 'Harweza',
+      meaning: ['She can’t', 'He can’t'],
+    },
+    {
+      word: 'Harudi',
+      meaning: ['She doesn’t return', 'He doesn’t return'],
+    },
+    {
+      word: 'Hajaribu',
+      meaning: ['She doesn’t try', 'He doesn’t try'],
+    },
+    {
+      word: 'Halali',
+      meaning: ['She doesn’t sleep', 'He doesn’t sleep'],
+    },
+    {
+      word: 'Hatusomi',
+      meaning: 'We don’t read',
+    },
+    {
+      word: 'Hatuhitaji',
+      meaning: 'We don’t need',
+    },
+    {
+      word: 'Hatunywi',
+      meaning: 'we don’t drink',
+    },
+    {
+      word: 'Hatupendi',
+      meaning: 'We don’t love',
+    },
+    {
+      word: 'Hatuandiki',
+      meaning: 'we don’t write',
+    },
+    {
+      word: 'Hatukimbia',
+      meaning: 'we don’t run',
+    },
+    {
+      word: 'Hatupiki',
+      meaning: 'we don’t cook',
+    },
+    {
+      word: 'Hatutembei',
+      meaning: 'We don’t walk',
+    },
+    {
+      word: 'Hatufikiri',
+      meaning: 'We don’t think',
+    },
+    {
+      word: 'Hatukuja',
+      meaning: 'we don’t come',
+    },
+    {
+      word: 'Hatuchezi',
+      meaning: ['we don’t dance', 'we don’t play'],
+    },
+    {
+      word: 'Hatujibu',
+      meaning: 'We don’t answer',
+    },
+    {
+      word: 'Hatuendi',
+      meaning: 'We don’t go',
+    },
+    {
+      word: 'Hatuamki',
+      meaning: 'we don’t wake up',
+    },
+    {
+      word: 'Hatukutani',
+      meaning: 'We don’t meet',
+    },
     {
       word: 'hamjambo',
       type: 'plural',
@@ -524,6 +909,14 @@ module.exports = {
   ],
   i: [
     {
+      word: 'Ishirini',
+      meaning: 'Twenty',
+    },
+    {
+      word: 'Inua',
+      meaning: 'Lift up',
+    },
+    {
       word: 'iko wabi',
       meaning: ['where is'],
     },
@@ -537,6 +930,22 @@ module.exports = {
     },
   ],
   j: [
+    {
+      word: 'Jifunza',
+      meaning: 'Learn',
+    },
+    {
+      word: 'Jaribu',
+      meaning: 'Try',
+    },
+    {
+      word: 'Jenga',
+      meaning: ['Building', 'Constructing'],
+    },
+    {
+      word: 'Jibu',
+      meaning: ['Reply', 'Answer'],
+    },
     {
       word: 'jioni',
       meaning: 'evening',
@@ -587,6 +996,42 @@ module.exports = {
     },
   ],
   k: [
+    {
+      word: 'Kuzaliwa',
+      meaning: 'to be born',
+    },
+    {
+      word: 'kwanza',
+      meaning: 'first',
+    },
+    {
+      word: 'Kumi',
+      meaning: 'Ten',
+    },
+    {
+      word: 'Kimbia',
+      meaning: 'Run',
+    },
+    {
+      word: 'Kuja',
+      meaning: 'Come',
+    },
+    {
+      word: 'Kutana',
+      meaning: 'Meet',
+    },
+    {
+      word: 'kula',
+      meaning: 'Eat',
+    },
+    {
+      word: 'Kaa',
+      meaning: ['Sit', 'Stay'],
+    },
+    {
+      word: 'Kubali',
+      meaning: ['Agree', 'Accept'],
+    },
     {
       word: 'kitamu',
       meaning: 'delicious',
@@ -855,6 +1300,19 @@ module.exports = {
   ],
   l: [
     {
+      word: 'Lala',
+      meaning: 'Sleep',
+    },
+    {
+      word: 'Lia',
+      meaning: 'Cry',
+    },
+    {
+      word: 'laki',
+      meaning: ['one hundred thouthands', '100000'],
+      tags: ['number'],
+    },
+    {
       word: 'leo',
       meaning: ['day', 'today'],
     },
@@ -868,6 +1326,30 @@ module.exports = {
     },
   ],
   m: [
+    {
+      word: 'mwisho',
+      meaning: 'the last',
+    },
+    {
+      word: 'mwaka',
+      meaning: 'in th year',
+    },
+    {
+      word: 'Mia moja',
+      meaning: 'one hundred',
+    },
+    {
+      word: 'Moja',
+      meaning: 'One',
+    },
+    {
+      word: 'Mbili',
+      meaning: 'two',
+    },
+    {
+      word: 'Mlizaliwa',
+      meaning: 'you were born',
+    },
     {
       word: 'mashauri',
       meaning: 'issues',
@@ -1387,6 +1869,30 @@ module.exports = {
   ],
   n: [
     {
+      word: 'Nilizaliwa',
+      meaning: 'i was born',
+    },
+    {
+      word: 'Nane',
+      meaning: 'eight',
+    },
+    {
+      word: 'Nne',
+      meaning: 'four',
+    },
+    {
+      word: 'Nywa',
+      meaning: 'Drink',
+    },
+    {
+      word: 'nawa',
+      meaning: 'Wash hands',
+    },
+    {
+      word: 'Ngoja',
+      meaning: 'Wait',
+    },
+    {
       word: 'ngumu',
       meaning: 'hard',
       tags: ['adjective'],
@@ -1613,11 +2119,39 @@ module.exports = {
   ],
   o: [
     {
+      word: 'Ongea',
+      meaning: 'Talk',
+    },
+    {
+      word: 'Osha',
+      meaning: 'Wash Dishes',
+    },
+    {
+      word: 'Ogelea',
+      meaning: 'Swim',
+    },
+    {
+      word: 'Omba',
+      meaning: 'Ask for',
+    },
+    {
       word: 'ofisi',
       meaning: 'office',
     },
   ],
   p: [
+    {
+      word: 'Panda',
+      meaning: ['Plant', 'Climb'],
+    },
+    {
+      word: 'Penda',
+      meaning: ['Love', 'Like'],
+    },
+    {
+      word: 'Pika',
+      meaning: 'Cook',
+    },
     {
       word: 'poa',
       meaning: 'cool',
@@ -1655,14 +2189,142 @@ module.exports = {
   q: [],
   r: [
     {
+      word: 'Rudi',
+      meaning: 'Return',
+    },
+    {
       word: 'rafiki',
       meaning: 'friend',
     },
   ],
   s: [
     {
-      word: 'safi',
-      meaning: ['good', 'well'],
+      word: 'Simama',
+      meaning: ['Stop', 'Stand'],
+    },
+    {
+      word: 'Soma',
+      meaning: ['Read', 'study'],
+    },
+    {
+      word: 'Sipendi',
+      meaning: ['I don’t Love', 'I don’t like'],
+    },
+    {
+      word: 'Sisomi',
+      meaning: ['i don’t read', 'i don’t study'],
+    },
+    {
+      word: 'Sijibu',
+      meaning: ['I don’t reply', 'I don’t answer'],
+    },
+    {
+      word: 'Sichezi',
+      meaning: ['I don’t dance', 'I don’t dance play'],
+    },
+    {
+      word: 'Sufuri',
+      meaning: 'zero',
+    },
+    {
+      word: 'Sikimbia',
+      meaning: 'I don’t run',
+    },
+    {
+      word: 'Siandiki',
+      meaning: 'I don’t write',
+    },
+    {
+      word: 'Sinywi',
+      meaning: 'I don’t drink',
+    },
+    {
+      word: 'Sihitaji',
+      meaning: 'I don’t need',
+    },
+    {
+      word: 'Sifikiri',
+      meaning: 'I don’t think',
+    },
+    {
+      word: 'Sikuja',
+      meaning: 'I don’t come',
+    },
+    {
+      word: 'Sitembei',
+      meaning: 'I don’t Walk',
+    },
+    {
+      word: 'Sipishi',
+      meaning: 'I don’t cook',
+    },
+    {
+      word: 'Sikutana',
+      meaning: 'I don’t meet',
+    },
+    {
+      word: 'Siamki',
+      meaning: 'I don’t wake up',
+    },
+    {
+      word: 'Siendi',
+      meaning: 'I don’t go',
+    },
+    {
+      word: 'Sifika',
+      meaning: 'I don’t arrive',
+    },
+    {
+      word: 'Siongei',
+      meaning: 'I don’t talk',
+    },
+    {
+      word: 'Sili',
+      meaning: 'I don’t eat',
+    },
+    {
+      word: 'Sifanya',
+      meaning: 'I don’t',
+    },
+    {
+      word: 'Siweza',
+      meaning: 'I can not',
+    },
+    {
+      word: 'Sirudi',
+      meaning: 'I’m not returning',
+    },
+    {
+      word: 'Sijaribu',
+      meaning: 'I don’t try',
+    },
+    {
+      word: 'Silali',
+      meaning: 'I don’t sleep',
+    },
+    {
+      word: 'Saba',
+      meaning: 'seven',
+    },
+    {
+      word: 'Sabini',
+      meaning: 'Seventy',
+    },
+    {
+      word: 'Safisha',
+      meaning: 'To clean',
+    },
+    {
+      word: 'Shauri',
+      meaning: 'To Advice',
+    },
+    {
+      word: 'Sitini',
+      meaning: 'sixty',
+    },
+    {
+      word: 'Sita',
+      meaning: 'Six',
     },
     {
       word: 'simu',
@@ -1734,6 +2396,54 @@ module.exports = {
     },
   ],
   t: [
+    {
+      word: 'Tulizaliwa',
+      meaning: 'we were born',
+    },
+    {
+      word: 'Tisini',
+      meaning: 'ninety',
+    },
+    {
+      word: 'Themanini',
+      meaning: 'eighty',
+    },
+    {
+      word: 'Thelathini',
+      meaning: 'Thirty',
+    },
+    {
+      word: 'Tisa',
+      meaning: 'nine',
+    },
+    {
+      word: 'Tano',
+      meaning: 'five',
+    },
+    {
+      word: 'Tatu',
+      meaning: 'Three',
+    },
+    {
+      word: 'Tembea',
+      meaning: 'Walk',
+    },
+    {
+      word: 'Taka',
+      meaning: 'Want',
+    },
+    {
+      word: 'Tuma',
+      meaning: 'Send',
+    },
+    {
+      word: 'Tembelea',
+      meaning: 'Visit',
+    },
+    {
+      word: 'Tunza',
+      meaning: 'Take care of',
+    },
     {
       word: 'tajiri',
       meaning: ['wealthy', 'rich'],
@@ -2089,6 +2799,18 @@ module.exports = {
   ],
   w: [
     {
+      word: 'Weza',
+      meaning: 'can',
+    },
+    {
+      word: 'Winda',
+      meaning: 'Hunt',
+    },
+    {
+      word: 'Washa',
+      meaning: ['Light', 'Ignite', 'Turn on'],
+    },
+    {
       word: 'werevu',
       meaning: ['clever', 'smart'],
       tags: ['adjective'],
@@ -2385,6 +3107,14 @@ module.exports = {
   ],
   z: [
     {
+      word: 'Zima',
+      meaning: 'Switches off',
+    },
+    {
+      word: 'Zoea',
+      meaning: 'Getting used to',
+    },
+    {
       word: 'Zawadi',
       meaning: 'gifts',
     },
@@ -2398,256 +3128,3 @@ module.exports = {
     },
   ],
 }
-// Omba (Ask for)
-// -Shauri (To Advice)
-// -Ngoja
-// -Lia (Cry)
-// -Funga (Close / Fasten / Tie / Lock)
-// -Ngoja (Wait)
-// -Jifunza (Learn)
-// -nawa (Wash hands)
-// -Winda (Hunt)
-// -Anza (Begin / Start)
-// -Fuga (Keep / Raise)
-// -Fundisha (Teach)
-// -Simama (Stop / Stand)
-// -Ogelea (Swim)
-// -Tunza (Take care of)
-// -Washa (Light / Ignite / Turn on)
-// -Safisha (To clean)
-// -Fagia (Sweep)
-// -Jenga (Building / Constructing)
-// -Futa (Dust / Wipe / Erase)
-// -Osha (Wash Dishes)
-// -Panda (Plant / Climb)
-// -Kubali (Agree / Accept)
-// -Tembelea (Visit)
-// -Kaa (Sit / Stay)
-// -Inua (Lift up)
-// -Endesha (Drive / Ride)
-// -Zoea (Getting used to)
-// -Zima (Switches off)
-// -washa (Turn On)
-// -Tuma (Send)
-// -Taka (Want)
-// -Fungui(Open)
-// -Fua (Wash clothes)
-
-//   ////////////////////////////////
-
-// Halali =>  He/She doesn’t sleep
-
-// Hulali => You don’t sleep
-// Hatulali => we don’t sleep
-// Silali => I don’t sleep
-
-// -Jaribu (Try)
-// Hajaribu => He/she doesn’t try
-
-// Hujaribi => you don’t try
-// Hatujaribu => we don’t try
-// Sijaribu => I don’t try
-
-// -Rudi (Return)
-// - Lala(Sleep)
-// Harudi => He/she doesn’t return
-
-// Hurudi => You all don’t return
-// Haturudi => we don’t return
-// Sirudi => I’m not returning
-
-// -Weza (can)
-
-// Harweza => He/she can’t
-
-// Huweza => You all can not
-
-// Hatuwezi => we can’t
-// Siweza => I can not
-
-// -Fanya (Do)
-
-// Hafanya  => He/she don’t
-
-// Hufanya  => You all don’t
-// Hatufanyi => we don’t
-// Sifanya => I don’t
-
-// -kula (Eat)
-
-// Hakula => He/she don’t eat
-
-// hamli  => You all don’t eat
-
-// Hatukuli => We don’t eat
-// Sili => I don’t eat
-
-// -Ongea (Talk)
-
-// Haongei => He/she don’t talk
-
-// Huongei => You all don’t talk
-// Hatuongei => we don’t talk
-// Siongei => I don’t talk
-
-// -Fika (Arrive)
-
-// Hafiki => He/she don’t arrive
-
-// Hufiki => You all don’t arrive
-
-// Hatufiki => we don’t arrive
-// Sifika => I don’t arrive
-
-// -Enda (Go)
-
-// Haendi => He/She doesn’t go
-
-// Huendi => you don’t go
-// Hatuendi => We don’t go
-// Siendi => I don’t go
-
-// -Amka (Wake up)
-
-// Haamki => He/She doesn’t wake up
-
-// Huamki => you don’t wake up
-
-// Hatuamki => we don’t wake up
-// Siamki => I don’t wake up
-
-// -Kutana (Meet)
-
-// Hakutani => He/She doesn’t meet
-
-// Hukutani => you don’t meet
-// Hatukutani => We don’t meet
-// Sikutana => I don’t meet
-
-// -Pika (Cook)
-
-// Hapiki => He/She doesn’t cook
-
-// Hupiki => you don’t cook
-
-// Hatupiki => we don’t cook
-// Sipishi => I don’t cook
-
-// -Tembea (Walk)
-
-// Hatembei => He/She doesn’t Walk
-
-// Hutembei => you don’t Walk
-// Hatutembei => We don’t walk
-// Sitembei => I don’t Walk
-
-// -Fikiri (Think)
-
-// Hafikiri => He/She doesn’t think
-
-// Hufikiri => you don’t think
-
-// Hatufikiri => We don’t think
-// Sifikiri => I don’t think
-
-// -Kuja (Come)
-
-// Hakuji => He/She doesn’t come
-// Hukuji => you don’t come
-// Hatukuja => we don’t come
-// Sikuja => I don’t come
-
-// -Cheza (Dance/Play)
-
-// Hachezi => He/She doesn’t dance/play
-// Hamchezi => you don’t dance/play
-
-// Hatuchezi => we don’t dance/play
-// Sichezi => I don’t dance/play
-
-// -Jibu (Reply / Answer)
-
-// Hajibu => He/She doesn’t reply / answer
-
-// Hujibu => you don’t reply / answer
-// Hatujibu => We don’t answer
-// Sijibu => I don’t reply / answer
-
-// -Soma (Read / study)
-
-// Hasomi => He/She doesn’t read/studies
-
-// Husomi => you don’t read/study
-
-// Hatusomi => We don’t read
-// Sisomi => i don’t read/study
-
-// -Hitaji (Need)
-
-// Hahitaji => He/She doesn’t need
-
-// Huhitaji => You don’t need
-// Hatuhitaji => We don’t need
-// Sihitaji => I don’t need
-
-// -Nywa (Drink)
-
-// Hanywi => He/She doesn’t drink
-// Hunywi => you don’t drink
-
-// Hatunywi => we don’t drink
-// Sinywi  => I don’t drink
-
-// -Penda (Love / Like)
-
-// Hapendi => He/She doesn’t Love / Like
-
-// Hupendi => You don’t Love/Like to
-// Hatupendi => We don’t love
-// Sipendi => I don’t Love / like
-
-// -Andika (Write)
-
-// Haandiki => He/She doesn’t write
-// Huandiki => You don’t write
-
-// Hatuandiki => we don’t write
-// Siandiki => I don’t write
-
-// -Kimbia (Run)
-// Hakimbii => He/She doesn’t run
-// Hukimbii => you don’t run
-// Hatukimbia => we don’t run
-// Sikimbia => I don’t run
-
-// Sufuri => zero
-// Moja => One
-// Mbili => two
-// Tatu => Three
-// Nne =>  four
-// Tano => five
-// Sita => Six
-// Saba => seven
-// Nane => eight
-// Tisa => nine
-// Kumi => Ten
-// Ishirini => Twenty
-// Thelathini => Thirty
-// Arobaini => Fourty
-// Hamsini => fifty
-// Sitini => sixty
-// Sabini => Seventy
-// Themanini => eighty
-// Tisini => ninety
-// Mia moja => one hundred
-// kwanza: first
-// laki: one hundred thouthands
-// Kuzaliwa: to be born
-// Mlizaliwa: you were born
-// Alizaliwa: he was born
-// Nilizaliwa: i was born
-// Tulizaliwa: we were born
-// mwisho: the last
-// mwaka: in th year
-// elfu mbili: 2000
-// elfu moja: 1000
